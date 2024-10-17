@@ -1,0 +1,39 @@
+﻿<Window x:Class="Patterns.PipelineWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sample: Async Pipeline" Height="400" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Add item to queue"
+                Margin="20"
+                Grid.ColumnSpan="2"
+                Click="AddToQueue" />
+        
+        <ListBox Margin="20"
+                 Grid.Row="1"
+                 Grid.ColumnSpan="2"
+                 x:Name="Log" />
+        
+        <Button Content="Stop Current" 
+                Grid.Row="2"
+                Grid.Column="0"
+                Margin="20"
+                Click="StopCurrent"/>
+        
+        <Button Content="Stop All" 
+                Grid.Row="2"
+                Grid.Column="1"
+                Margin="20"
+                Click="StopAll"/>
+    </Grid>
+</Window>

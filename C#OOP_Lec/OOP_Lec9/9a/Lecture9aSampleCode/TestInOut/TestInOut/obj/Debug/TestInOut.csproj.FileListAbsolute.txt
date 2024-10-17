@@ -1,0 +1,7 @@
+C:\Users\echrk\source\repos\TestInOut\TestInOut\bin\Debug\TestInOut.exe.config
+C:\Users\echrk\source\repos\TestInOut\TestInOut\bin\Debug\TestInOut.exe
+C:\Users\echrk\source\repos\TestInOut\TestInOut\bin\Debug\TestInOut.pdb
+C:\Users\echrk\source\repos\TestInOut\TestInOut\obj\Debug\TestInOut.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\TestInOut\TestInOut\obj\Debug\TestInOut.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\TestInOut\TestInOut\obj\Debug\TestInOut.exe
+C:\Users\echrk\source\repos\TestInOut\TestInOut\obj\Debug\TestInOut.pdb

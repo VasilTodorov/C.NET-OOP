@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\bin\Debug\net7.0\GetSum56.exe
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\bin\Debug\net7.0\GetSum56.deps.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\bin\Debug\net7.0\GetSum56.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\bin\Debug\net7.0\GetSum56.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\bin\Debug\net7.0\GetSum56.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\refint\GetSum56.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\GetSum56.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\GetSum56\obj\Debug\net7.0\ref\GetSum56.dll

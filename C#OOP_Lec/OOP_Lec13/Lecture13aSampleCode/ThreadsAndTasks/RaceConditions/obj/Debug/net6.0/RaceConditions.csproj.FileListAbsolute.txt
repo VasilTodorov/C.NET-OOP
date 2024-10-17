@@ -1,0 +1,15 @@
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\bin\Debug\net6.0\RaceConditions.exe
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\bin\Debug\net6.0\RaceConditions.deps.json
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\bin\Debug\net6.0\RaceConditions.runtimeconfig.json
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\bin\Debug\net6.0\RaceConditions.dll
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\bin\Debug\net6.0\RaceConditions.pdb
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.csproj.AssemblyReference.cache
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.AssemblyInfoInputs.cache
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.AssemblyInfo.cs
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.dll
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\refint\RaceConditions.dll
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.pdb
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\RaceConditions.genruntimeconfig.cache
+E:\VS2022projects\ThreadsAndTasks\RaceConditions\obj\Debug\net6.0\ref\RaceConditions.dll

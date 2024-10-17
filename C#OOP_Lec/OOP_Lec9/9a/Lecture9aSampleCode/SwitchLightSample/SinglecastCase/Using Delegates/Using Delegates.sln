@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Delegates", "Using Delegates.csproj", "{B0D6D808-D8B5-4134-87E9-98A36E54D083}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B0D6D808-D8B5-4134-87E9-98A36E54D083}.Debug.ActiveCfg = Debug|.NET
+		{B0D6D808-D8B5-4134-87E9-98A36E54D083}.Debug.Build.0 = Debug|.NET
+		{B0D6D808-D8B5-4134-87E9-98A36E54D083}.Release.ActiveCfg = Release|.NET
+		{B0D6D808-D8B5-4134-87E9-98A36E54D083}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

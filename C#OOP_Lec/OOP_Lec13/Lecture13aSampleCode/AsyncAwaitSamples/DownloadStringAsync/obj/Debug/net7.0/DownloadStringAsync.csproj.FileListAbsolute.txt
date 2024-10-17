@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\bin\Debug\net7.0\DownloadStringAsync.exe
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\bin\Debug\net7.0\DownloadStringAsync.deps.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\bin\Debug\net7.0\DownloadStringAsync.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\bin\Debug\net7.0\DownloadStringAsync.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\bin\Debug\net7.0\DownloadStringAsync.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\refint\DownloadStringAsync.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\DownloadStringAsync.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsync\obj\Debug\net7.0\ref\DownloadStringAsync.dll

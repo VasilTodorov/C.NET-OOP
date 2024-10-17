@@ -1,0 +1,14 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\bin\Debug\PassDataEventHandler.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\bin\Debug\PassDataEventHandler.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\bin\Debug\PassDataEventHandler.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.csprojAssemblyReference.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\bin\Debug\PassDataEventHandler.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\bin\Debug\PassDataEventHandler.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\bin\Debug\PassDataEventHandler.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PassDataEventHandler\obj\Debug\PassDataEventHandler.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get10", "Get10\Get10.csproj", "{6134439B-AC06-47D4-A581-B0774837589A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWorkAsync", "DoWorkAsync\DoWorkAsync.csproj", "{D36E9364-E425-4412-A842-95DD16150E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSum56", "GetSum56\GetSum56.csproj", "{A6E35705-8BBE-41DD-A857-30E3C40F9742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadStringWebClient", "DownloadString\DownloadStringWebClient.csproj", "{85F96741-16AC-4827-81BA-2DE11DD5019C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadStringAsyncWebClient", "DownloadStringAsync\DownloadStringAsyncWebClient.csproj", "{D79308F2-D2E9-4B01-AA90-0C3F363A1C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadStringAsyncHttpClient", "DownloadStringAsyncHttpClient\DownloadStringAsyncHttpClient.csproj", "{7EEF0E3D-325F-44C6-8D65-D832D3006882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6134439B-AC06-47D4-A581-B0774837589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6134439B-AC06-47D4-A581-B0774837589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6134439B-AC06-47D4-A581-B0774837589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6134439B-AC06-47D4-A581-B0774837589A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36E9364-E425-4412-A842-95DD16150E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36E9364-E425-4412-A842-95DD16150E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36E9364-E425-4412-A842-95DD16150E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36E9364-E425-4412-A842-95DD16150E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E35705-8BBE-41DD-A857-30E3C40F9742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E35705-8BBE-41DD-A857-30E3C40F9742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E35705-8BBE-41DD-A857-30E3C40F9742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E35705-8BBE-41DD-A857-30E3C40F9742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F96741-16AC-4827-81BA-2DE11DD5019C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F96741-16AC-4827-81BA-2DE11DD5019C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F96741-16AC-4827-81BA-2DE11DD5019C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F96741-16AC-4827-81BA-2DE11DD5019C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79308F2-D2E9-4B01-AA90-0C3F363A1C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79308F2-D2E9-4B01-AA90-0C3F363A1C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79308F2-D2E9-4B01-AA90-0C3F363A1C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79308F2-D2E9-4B01-AA90-0C3F363A1C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEF0E3D-325F-44C6-8D65-D832D3006882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEF0E3D-325F-44C6-8D65-D832D3006882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEF0E3D-325F-44C6-8D65-D832D3006882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEF0E3D-325F-44C6-8D65-D832D3006882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E49CC65-F645-424A-A6DE-991F727F7CDE}
+	EndGlobalSection
+EndGlobal

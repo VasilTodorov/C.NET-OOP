@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\bin\Debug\net7.0\DownloadStringAsyncHttpClient.exe
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\bin\Debug\net7.0\DownloadStringAsyncHttpClient.deps.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\bin\Debug\net7.0\DownloadStringAsyncHttpClient.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\bin\Debug\net7.0\DownloadStringAsyncHttpClient.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\bin\Debug\net7.0\DownloadStringAsyncHttpClient.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\refint\DownloadStringAsyncHttpClient.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\DownloadStringAsyncHttpClient.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadStringAsyncHttpClient\obj\Debug\net7.0\ref\DownloadStringAsyncHttpClient.dll

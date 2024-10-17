@@ -1,0 +1,15 @@
+﻿<Window x:Class="DataBindingExample5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Data binding example 5" Height="300" Width="300"  >
+    <Grid  >
+        <StackPanel x:Name="StcPanel" >
+            <TextBox   x:Name="TxtBox1" Text="Hello, databinding" />
+            <TextBox   x:Name="TxtBox2" Text="{Binding Name,  UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox   x:Name="TxtBox3"  />
+            <ListBox   x:Name="MyListBox" ItemsSource="{Binding}" DisplayMemberPath="Name" IsSynchronizedWithCurrentItem="True"/>
+            <Button x:Name="BtnAddPerson" Content="Add Person" Click="BtnAddPerson_Click"/>
+            <Button x:Name="BtnChangePerson" Content="Change Person" Click="BtnChangePerson_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\eug\\esc\\_CSharp\\FMICS\\CSF23\\w10WPF\\Lectures\\Lecture10b-2023\\DataBindingExamples\\DataBindingExample6\\DataBindingExample6.csproj": {}
+  },
+  "projects": {
+    "E:\\eug\\esc\\_CSharp\\FMICS\\CSF23\\w10WPF\\Lectures\\Lecture10b-2023\\DataBindingExamples\\DataBindingExample6\\DataBindingExample6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\eug\\esc\\_CSharp\\FMICS\\CSF23\\w10WPF\\Lectures\\Lecture10b-2023\\DataBindingExamples\\DataBindingExample6\\DataBindingExample6.csproj",
+        "projectName": "DataBindingExample6",
+        "projectPath": "E:\\eug\\esc\\_CSharp\\FMICS\\CSF23\\w10WPF\\Lectures\\Lecture10b-2023\\DataBindingExamples\\DataBindingExample6\\DataBindingExample6.csproj",
+        "packagesPath": "C:\\Users\\echrk\\.nuget\\packages\\",
+        "outputPath": "E:\\eug\\esc\\_CSharp\\FMICS\\CSF23\\w10WPF\\Lectures\\Lecture10b-2023\\DataBindingExamples\\DataBindingExample6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\echrk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/oxyplot/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\obj\Debug\CustomEvent.csprojAssemblyReference.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\obj\Debug\CustomEvent.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\obj\Debug\CustomEvent.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\obj\Debug\CustomEvent.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

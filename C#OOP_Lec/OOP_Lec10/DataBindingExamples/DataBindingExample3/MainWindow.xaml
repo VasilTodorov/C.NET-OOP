@@ -1,0 +1,13 @@
+﻿<Window x:Class="DataBindingExample3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Data binding example 3" Height="300" Width="300"  >
+    <Grid  >
+        <StackPanel x:Name="StcPanel" >
+            <TextBox   x:Name="TxtBox1" Text="Hello, databinding" />
+            <TextBox   x:Name="TxtBox2" Text="{Binding Text,  ElementName=TxtBox1}" />
+            <TextBox   x:Name="TxtBox3"  />
+            <ListBox   x:Name="MyListBox" ItemsSource="{Binding}" DisplayMemberPath="Name"/>
+        </StackPanel>
+    </Grid>
+</Window>

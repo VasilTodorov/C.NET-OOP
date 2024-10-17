@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\bin\Debug\net7.0\RollDie.exe
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\bin\Debug\net7.0\RollDie.deps.json
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\bin\Debug\net7.0\RollDie.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\bin\Debug\net7.0\RollDie.dll
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\bin\Debug\net7.0\RollDie.pdb
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.dll
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\refint\RollDie.dll
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.pdb
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\RollDie.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\RollDie\obj\Debug\net7.0\ref\RollDie.dll

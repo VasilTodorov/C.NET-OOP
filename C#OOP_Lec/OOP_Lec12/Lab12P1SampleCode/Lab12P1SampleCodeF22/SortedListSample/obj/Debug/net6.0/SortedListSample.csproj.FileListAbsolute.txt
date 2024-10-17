@@ -1,0 +1,15 @@
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\bin\Debug\net6.0\SortedListSample.exe
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\bin\Debug\net6.0\SortedListSample.deps.json
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\bin\Debug\net6.0\SortedListSample.runtimeconfig.json
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\bin\Debug\net6.0\SortedListSample.dll
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\bin\Debug\net6.0\SortedListSample.pdb
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.AssemblyReference.cache
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfoInputs.cache
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfo.cs
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.CoreCompileInputs.cache
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.dll
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\refint\SortedListSample.dll
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.pdb
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\SortedListSample.genruntimeconfig.cache
+E:\VS2022projects\Lab12P1SampleCodeF22\SortedListSample\obj\Debug\net6.0\ref\SortedListSample.dll

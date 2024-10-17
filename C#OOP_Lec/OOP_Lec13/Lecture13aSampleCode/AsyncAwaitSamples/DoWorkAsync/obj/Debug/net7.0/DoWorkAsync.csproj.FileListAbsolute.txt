@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\bin\Debug\net7.0\DoWorkAsync.exe
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\bin\Debug\net7.0\DoWorkAsync.deps.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\bin\Debug\net7.0\DoWorkAsync.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\bin\Debug\net7.0\DoWorkAsync.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\bin\Debug\net7.0\DoWorkAsync.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\refint\DoWorkAsync.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\DoWorkAsync.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DoWorkAsync\obj\Debug\net7.0\ref\DoWorkAsync.dll

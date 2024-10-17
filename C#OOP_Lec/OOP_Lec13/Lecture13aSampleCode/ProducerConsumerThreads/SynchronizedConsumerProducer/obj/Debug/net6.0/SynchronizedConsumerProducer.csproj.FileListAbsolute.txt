@@ -1,0 +1,15 @@
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\bin\Debug\net6.0\SynchronizedConsumerProducer.exe
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\bin\Debug\net6.0\SynchronizedConsumerProducer.deps.json
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\bin\Debug\net6.0\SynchronizedConsumerProducer.runtimeconfig.json
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\bin\Debug\net6.0\SynchronizedConsumerProducer.dll
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\bin\Debug\net6.0\SynchronizedConsumerProducer.pdb
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.csproj.AssemblyReference.cache
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.AssemblyInfoInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.AssemblyInfo.cs
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.dll
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\refint\SynchronizedConsumerProducer.dll
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.pdb
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\SynchronizedConsumerProducer.genruntimeconfig.cache
+E:\VS2022projects\ProducerConsumerThreads\SynchronizedConsumerProducer\obj\Debug\net6.0\ref\SynchronizedConsumerProducer.dll

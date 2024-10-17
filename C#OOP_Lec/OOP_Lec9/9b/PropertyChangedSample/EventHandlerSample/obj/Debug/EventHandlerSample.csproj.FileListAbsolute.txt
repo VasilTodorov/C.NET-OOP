@@ -1,0 +1,14 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\bin\Debug\EventHandlerSample.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\bin\Debug\EventHandlerSample.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\bin\Debug\EventHandlerSample.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\bin\Debug\EventHandlerSample.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\bin\Debug\EventHandlerSample.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\bin\Debug\EventHandlerSample.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\EventHandlerSample\obj\Debug\EventHandlerSample.pdb

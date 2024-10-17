@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\bin\Debug\net7.0\DownloadString.exe
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\bin\Debug\net7.0\DownloadString.deps.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\bin\Debug\net7.0\DownloadString.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\bin\Debug\net7.0\DownloadString.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\bin\Debug\net7.0\DownloadString.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\refint\DownloadString.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\DownloadString.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\DownloadString\obj\Debug\net7.0\ref\DownloadString.dll

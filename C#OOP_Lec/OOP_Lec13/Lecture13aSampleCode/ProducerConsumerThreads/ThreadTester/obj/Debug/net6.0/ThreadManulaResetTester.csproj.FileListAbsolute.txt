@@ -1,0 +1,15 @@
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\bin\Debug\net6.0\ThreadManulaResetTester.exe
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\bin\Debug\net6.0\ThreadManulaResetTester.deps.json
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\bin\Debug\net6.0\ThreadManulaResetTester.runtimeconfig.json
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\bin\Debug\net6.0\ThreadManulaResetTester.dll
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\bin\Debug\net6.0\ThreadManulaResetTester.pdb
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.csproj.AssemblyReference.cache
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.AssemblyInfoInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.AssemblyInfo.cs
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.dll
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\refint\ThreadManulaResetTester.dll
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.pdb
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ThreadManulaResetTester.genruntimeconfig.cache
+E:\VS2022projects\ProducerConsumerThreads\ThreadTester\obj\Debug\net6.0\ref\ThreadManulaResetTester.dll

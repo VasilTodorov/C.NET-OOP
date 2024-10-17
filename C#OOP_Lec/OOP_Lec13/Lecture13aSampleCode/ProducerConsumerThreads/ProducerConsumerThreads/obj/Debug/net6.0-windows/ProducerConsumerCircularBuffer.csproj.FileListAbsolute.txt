@@ -1,0 +1,15 @@
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.csproj.AssemblyReference.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.AssemblyInfoInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.AssemblyInfo.cs
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0-windows\ProducerConsumerCircularBuffer.exe
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0-windows\ProducerConsumerCircularBuffer.deps.json
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0-windows\ProducerConsumerCircularBuffer.runtimeconfig.json
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0-windows\ProducerConsumerCircularBuffer.dll
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0-windows\ProducerConsumerCircularBuffer.pdb
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.dll
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\refint\ProducerConsumerCircularBuffer.dll
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.pdb
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ProducerConsumerCircularBuffer.genruntimeconfig.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0-windows\ref\ProducerConsumerCircularBuffer.dll

@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\bin\Debug\net7.0\Get10.exe
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\bin\Debug\net7.0\Get10.deps.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\bin\Debug\net7.0\Get10.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\bin\Debug\net7.0\Get10.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\bin\Debug\net7.0\Get10.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\refint\Get10.dll
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.pdb
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\Get10.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture13bSampleCode\Get10\obj\Debug\net7.0\ref\Get10.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SynchronizedConsumerProducer/1.0.0": {
+        "runtime": {
+          "SynchronizedConsumerProducer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SynchronizedConsumerProducer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

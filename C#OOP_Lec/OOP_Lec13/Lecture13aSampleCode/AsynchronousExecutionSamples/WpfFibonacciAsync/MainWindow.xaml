@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfFibonacciAsync.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFibonacciAsync"
+        mc:Ignorable="d"
+        Title="Two sequential Tasks in WPF" Height="450" Width="545.5">
+    <Grid Margin="2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="318*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Calls to Fibonacci(40) and Fibonacci(30) in separate threads" HorizontalAlignment="Center" Margin="45,10,21,13" VerticalAlignment="Center" Width="448" Height="34" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="startButton" Content="Start Asynchronous Fibonacci Calls" HorizontalAlignment="Left" Margin="10,11,0,0" Grid.Row="1" VerticalAlignment="Top" Width="249"  FontWeight="Bold" Click="StartButton_ClickV2" Height="20"/>
+        <TextBox x:Name="outputTextBox" Margin="10" Grid.Row="2" TextWrapping="Wrap" IsReadOnly="True"/>
+        <Button x:Name="ExitButton" Content="Quit" Margin="340,10,10,0" Grid.Row="1" VerticalAlignment="Top" Click="ExitButton_Click" FontWeight="Bold" Height="20"/>
+
+    </Grid>
+</Window>

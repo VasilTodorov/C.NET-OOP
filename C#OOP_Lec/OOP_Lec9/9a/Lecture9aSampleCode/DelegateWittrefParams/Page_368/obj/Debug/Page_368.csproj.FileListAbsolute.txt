@@ -1,0 +1,5 @@
+D:\eug\esc\_C#\FMIC#\C#F08\w9-\Lectures\DelegateWittrefParams\Page_368\bin\Debug\Page_368.exe
+D:\eug\esc\_C#\FMIC#\C#F08\w9-\Lectures\DelegateWittrefParams\Page_368\bin\Debug\Page_368.pdb
+D:\eug\esc\_C#\FMIC#\C#F08\w9-\Lectures\DelegateWittrefParams\Page_368\obj\Debug\ResolveAssemblyReference.cache
+D:\eug\esc\_C#\FMIC#\C#F08\w9-\Lectures\DelegateWittrefParams\Page_368\obj\Debug\Page_368.exe
+D:\eug\esc\_C#\FMIC#\C#F08\w9-\Lectures\DelegateWittrefParams\Page_368\obj\Debug\Page_368.pdb

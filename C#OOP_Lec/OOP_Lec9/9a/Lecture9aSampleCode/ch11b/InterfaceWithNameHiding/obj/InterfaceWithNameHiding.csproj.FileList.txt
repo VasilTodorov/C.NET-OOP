@@ -1,0 +1,2 @@
+obj\Debug\InterfaceWithNameHiding.exe
+obj\Debug\InterfaceWithNameHiding.pdb

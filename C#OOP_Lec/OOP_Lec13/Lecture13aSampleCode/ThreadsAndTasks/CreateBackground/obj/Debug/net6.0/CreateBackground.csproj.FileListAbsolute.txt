@@ -1,0 +1,15 @@
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\bin\Debug\net6.0\CreateBackground.exe
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\bin\Debug\net6.0\CreateBackground.deps.json
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\bin\Debug\net6.0\CreateBackground.runtimeconfig.json
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\bin\Debug\net6.0\CreateBackground.dll
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\bin\Debug\net6.0\CreateBackground.pdb
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.csproj.AssemblyReference.cache
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.AssemblyInfoInputs.cache
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.AssemblyInfo.cs
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.dll
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\refint\CreateBackground.dll
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.pdb
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\CreateBackground.genruntimeconfig.cache
+E:\VS2022projects\ThreadsAndTasks\CreateBackground\obj\Debug\net6.0\ref\CreateBackground.dll

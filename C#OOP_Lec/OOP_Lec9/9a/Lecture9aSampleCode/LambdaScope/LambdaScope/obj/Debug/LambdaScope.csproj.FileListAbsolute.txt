@@ -1,0 +1,5 @@
+D:\eug\esc\_C#\FMIC#\C#F13\w9-\Lectures\LambdaScope\LambdaScope\bin\Debug\LambdaScope.exe
+D:\eug\esc\_C#\FMIC#\C#F13\w9-\Lectures\LambdaScope\LambdaScope\bin\Debug\LambdaScope.pdb
+D:\eug\esc\_C#\FMIC#\C#F13\w9-\Lectures\LambdaScope\LambdaScope\obj\Debug\ResolveAssemblyReference.cache
+D:\eug\esc\_C#\FMIC#\C#F13\w9-\Lectures\LambdaScope\LambdaScope\obj\Debug\LambdaScope.exe
+D:\eug\esc\_C#\FMIC#\C#F13\w9-\Lectures\LambdaScope\LambdaScope\obj\Debug\LambdaScope.pdb

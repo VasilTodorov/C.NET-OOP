@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClockWithThreads", "AnalogClockWithThreads\AnalogClockWithThreads.csproj", "{DA27B454-1DEC-401C-9A9E-3DF47369EF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClockApp", "AnalogClockApp\AnalogClockApp.csproj", "{9944EC84-A18D-404C-B5EA-D0722560E8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalClock", "DigitalClock\DigitalClock.csproj", "{938843C9-E172-43CE-BA8D-D5DBB4880247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalClockSysTimer", "DigitalClockSysTimer\DigitalClockSysTimer.csproj", "{292FBF44-DE26-4050-8BF4-C798C3C3B8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA27B454-1DEC-401C-9A9E-3DF47369EF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA27B454-1DEC-401C-9A9E-3DF47369EF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA27B454-1DEC-401C-9A9E-3DF47369EF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA27B454-1DEC-401C-9A9E-3DF47369EF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9944EC84-A18D-404C-B5EA-D0722560E8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9944EC84-A18D-404C-B5EA-D0722560E8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9944EC84-A18D-404C-B5EA-D0722560E8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9944EC84-A18D-404C-B5EA-D0722560E8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938843C9-E172-43CE-BA8D-D5DBB4880247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938843C9-E172-43CE-BA8D-D5DBB4880247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938843C9-E172-43CE-BA8D-D5DBB4880247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938843C9-E172-43CE-BA8D-D5DBB4880247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292FBF44-DE26-4050-8BF4-C798C3C3B8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292FBF44-DE26-4050-8BF4-C798C3C3B8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292FBF44-DE26-4050-8BF4-C798C3C3B8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292FBF44-DE26-4050-8BF4-C798C3C3B8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D10BB240-D2C4-43AB-8A9B-76D3BBA1B4C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThredExp", "ThredExp\ThredExp.csproj", "{8D9CBB16-1506-42C7-BCF6-20D6EAF901FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThredExpBackground", "ThredExpBackground\ThredExpBackground.csproj", "{3230360E-517D-41AA-ACE3-E2DEB243E471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTester", "ThreadTester\ThreadTester.csproj", "{848524D9-12B7-4196-AF56-A7DAA7D5A351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadCollectiveData", "ThreadCollectiveData\ThreadCollectiveData.csproj", "{1C0C2DB1-3825-4E1B-BC0D-6B299362AD7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadCollectiveData2", "ThreadCollectiveData2\ThreadCollectiveData2.csproj", "{0F39A6ED-6B07-4901-A257-9924EA489A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPoolEperiment", "ThreadPoolEperiment\ThreadPoolEperiment.csproj", "{5EF6B4ED-FE7A-4255-A242-27679DC6C295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9CBB16-1506-42C7-BCF6-20D6EAF901FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9CBB16-1506-42C7-BCF6-20D6EAF901FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9CBB16-1506-42C7-BCF6-20D6EAF901FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9CBB16-1506-42C7-BCF6-20D6EAF901FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3230360E-517D-41AA-ACE3-E2DEB243E471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3230360E-517D-41AA-ACE3-E2DEB243E471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3230360E-517D-41AA-ACE3-E2DEB243E471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3230360E-517D-41AA-ACE3-E2DEB243E471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848524D9-12B7-4196-AF56-A7DAA7D5A351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848524D9-12B7-4196-AF56-A7DAA7D5A351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848524D9-12B7-4196-AF56-A7DAA7D5A351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848524D9-12B7-4196-AF56-A7DAA7D5A351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0C2DB1-3825-4E1B-BC0D-6B299362AD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0C2DB1-3825-4E1B-BC0D-6B299362AD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0C2DB1-3825-4E1B-BC0D-6B299362AD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0C2DB1-3825-4E1B-BC0D-6B299362AD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F39A6ED-6B07-4901-A257-9924EA489A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F39A6ED-6B07-4901-A257-9924EA489A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F39A6ED-6B07-4901-A257-9924EA489A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F39A6ED-6B07-4901-A257-9924EA489A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF6B4ED-FE7A-4255-A242-27679DC6C295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF6B4ED-FE7A-4255-A242-27679DC6C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF6B4ED-FE7A-4255-A242-27679DC6C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF6B4ED-FE7A-4255-A242-27679DC6C295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E213D09B-9D7F-4395-AE77-2F7BBB6B447A}
+	EndGlobalSection
+EndGlobal

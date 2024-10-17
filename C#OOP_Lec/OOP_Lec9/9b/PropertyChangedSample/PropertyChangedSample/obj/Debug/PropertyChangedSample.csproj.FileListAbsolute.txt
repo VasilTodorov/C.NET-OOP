@@ -1,0 +1,13 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PropertyChangedSample\bin\Debug\PropertyChangedSample.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PropertyChangedSample\bin\Debug\PropertyChangedSample.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PropertyChangedSample\bin\Debug\PropertyChangedSample.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\bin\Debug\PropertyChangedSample.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\bin\Debug\PropertyChangedSample.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\bin\Debug\PropertyChangedSample.pdb
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.exe
+E:\eug\esc\_CSharp\FMICS\CSF18\w10\Lectures\EventHandling-2018\SampleEvent\PropertyChangedSample\PropertyChangedSample\obj\Debug\PropertyChangedSample.pdb

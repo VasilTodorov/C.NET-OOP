@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\Lab12P2SampleCodeF22Sol.exe
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\Lab12P2SampleCodeF22Sol.deps.json
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\Lab12P2SampleCodeF22Sol.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\Lab12P2SampleCodeF22Sol.dll
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\Lab12P2SampleCodeF22Sol.pdb
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.dll
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\refint\Lab12P2SampleCodeF22Sol.dll
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.pdb
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\Lab12P2SampleCodeF22Sol.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\ref\Lab12P2SampleCodeF22Sol.dll

@@ -1,0 +1,15 @@
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\bin\Debug\net6.0\DeadLockApp.exe
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\bin\Debug\net6.0\DeadLockApp.deps.json
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\bin\Debug\net6.0\DeadLockApp.runtimeconfig.json
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\bin\Debug\net6.0\DeadLockApp.dll
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\bin\Debug\net6.0\DeadLockApp.pdb
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.csproj.AssemblyReference.cache
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.AssemblyInfoInputs.cache
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.AssemblyInfo.cs
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.dll
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\refint\DeadLockApp.dll
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.pdb
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\DeadLockApp.genruntimeconfig.cache
+E:\VS2022projects\ThreadsAndTasks\DeadLockApp\obj\Debug\net6.0\ref\DeadLockApp.dll

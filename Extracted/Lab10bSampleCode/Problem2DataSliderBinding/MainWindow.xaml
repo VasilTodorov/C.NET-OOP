@@ -1,0 +1,32 @@
+﻿<Window x:Class="Problem2DataSliderBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem2DataSliderBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="203" Width="499">
+    <Window.Resources>
+        <local:DataConverter x:Key="DataConverterKey" />
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.Resources>
+            
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Bind with XAML" />
+        <TextBox Grid.Row="1" Padding="2" Name="TxtXAML"
+                 Text="{Binding ElementName=SlrDataInput, Path=Value, UpdateSourceTrigger=PropertyChanged,                 Converter={StaticResource DataConverterKey}}"
+                 />
+        <Label Grid.Row="2" Grid.Column="0" Content="Bind with C# code" />
+        <TextBox Grid.Row="3" Padding="2" Name="TxtCScode" />
+        <Slider Grid.Row="4"  Name="SlrDataInput" Value="0" Maximum="100" VerticalAlignment="Center"
+                IsSnapToTickEnabled="True" />
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\DictionarySampleSolP2.exe
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\DictionarySampleSolP2.deps.json
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\DictionarySampleSolP2.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\DictionarySampleSolP2.dll
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\bin\Debug\net7.0\DictionarySampleSolP2.pdb
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.dll
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\refint\DictionarySampleSolP2.dll
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.pdb
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\DictionarySampleSolP2.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\SortedListSampleSol\Lab12P2SampleCodeF22Sol\obj\Debug\net7.0\ref\DictionarySampleSolP2.dll

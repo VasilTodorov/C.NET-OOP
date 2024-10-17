@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem1Test"
+        xmlns:Problem1UsrCtrl="clr-namespace:Problem1UsrCtrl;assembly=Problem1UsrCtrl" x:Class="Problem1Test.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border BorderThickness="2" BorderBrush="Black" Margin="40, 10" VerticalAlignment="Center">
+            <Problem1UsrCtrl:LoginPasswordUserControl x:Name="UsrControl"  HorizontalAlignment="Left" Margin="190,46,0,0" VerticalAlignment="Top" Username="Ivan" Login="OnLogin"/>
+        </Border>
+      
+            <Label HorizontalAlignment="Center"
+                  Grid.Row="1" x:Name="LblOutput" FontWeight="Bold" FontSize="14">
+            
+        </Label>
+    </Grid>
+</Window>

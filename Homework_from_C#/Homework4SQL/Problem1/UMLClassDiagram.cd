@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Problem1.Product">
+    <Position X="3" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAASAggAAEAAAAAAAAAAEAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Problem1.YearlyQuarter">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Problem1.Type">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

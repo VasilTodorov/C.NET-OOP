@@ -1,0 +1,14 @@
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\bin\Debug\net7.0\ReferenceAndOutputParameters.exe
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\bin\Debug\net7.0\ReferenceAndOutputParameters.deps.json
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\bin\Debug\net7.0\ReferenceAndOutputParameters.runtimeconfig.json
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\bin\Debug\net7.0\ReferenceAndOutputParameters.dll
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\bin\Debug\net7.0\ReferenceAndOutputParameters.pdb
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.AssemblyInfoInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.AssemblyInfo.cs
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.dll
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\refint\ReferenceAndOutputParameters.dll
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.pdb
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ReferenceAndOutputParameters.genruntimeconfig.cache
+E:\VS2022projects\ProjectsF23\Lecture3aSampleCode\ReferenceAndOutputParameters\obj\Debug\net7.0\ref\ReferenceAndOutputParameters.dll

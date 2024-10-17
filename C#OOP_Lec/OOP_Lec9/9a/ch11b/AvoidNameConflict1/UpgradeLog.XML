@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AvoidNameConflict1">
+</Property><Property Name="Solution File" Value="D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\AvoidNameConflict1.sln">
+</Property><Property Name="User Options File" Value="D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\AvoidNameConflict1.suo">
+</Property><Property Name="Date" Value="Friday, December 01, 2006">
+</Property><Property Name="Time" Value="20:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AvoidNameConflict1.sln" Description="File successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\AvoidNameConflict1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AvoidNameConflict1.suo" Description="File successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\AvoidNameConflict1.suo">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="AvoidNameConflict1.csproj" Description="Project file successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\AvoidNameConflict1.csproj">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="AvoidNameConflict1.csproj.user" Description="Project user file successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\AvoidNameConflict1.csproj.user">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="Class1.cs" Description="File successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="App.ico" Description="File successfully backed up as D:\eug\esc\_C#\FMIC#\C#F06\SampleCodeOld\ch10\AvoidNameConflict1\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="AvoidNameConflict1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AvoidNameConflict1" Source="AvoidNameConflict1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AvoidNameConflict1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AvoidNameConflict1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AvoidNameConflict1" Source="AvoidNameConflict1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

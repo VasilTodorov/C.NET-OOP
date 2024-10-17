@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1Analog.fClock", "Problem1Analog.fClock\Problem1Analog.fClock.csproj", "{FD44E286-16C0-4C51-8007-253D83D03C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClockUserControl", "AnalogClockUserControl\AnalogClockUserControl.csproj", "{CC7B400D-0310-430D-B3CD-1D2914805A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalClock", "DigitalClock\DigitalClock.csproj", "{67A3A79B-D258-4F5B-ABC4-723D400C169F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD44E286-16C0-4C51-8007-253D83D03C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD44E286-16C0-4C51-8007-253D83D03C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD44E286-16C0-4C51-8007-253D83D03C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD44E286-16C0-4C51-8007-253D83D03C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7B400D-0310-430D-B3CD-1D2914805A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7B400D-0310-430D-B3CD-1D2914805A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7B400D-0310-430D-B3CD-1D2914805A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7B400D-0310-430D-B3CD-1D2914805A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A3A79B-D258-4F5B-ABC4-723D400C169F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A3A79B-D258-4F5B-ABC4-723D400C169F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A3A79B-D258-4F5B-ABC4-723D400C169F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A3A79B-D258-4F5B-ABC4-723D400C169F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C8D075-F4B4-4867-A4E2-4978BF0463D7}
+	EndGlobalSection
+EndGlobal

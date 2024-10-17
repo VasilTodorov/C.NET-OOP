@@ -1,0 +1,85 @@
+﻿<Window x:Class="Patterns.AsyncModel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Patterns.Utilities"
+        xmlns:amb="clr-namespace:Patterns.AMB"
+        Title="Sample: Async Model Binding" Height="300" Width="300">
+    
+    <Window.DataContext>
+        <amb:AsyncViewModel />
+    </Window.DataContext>
+
+    <Window.Resources>
+        <local:CoalesceConverter x:Key="CoalesceConverter" />
+        <local:HasValueConverter x:Key="HasValueConverter" />
+    </Window.Resources>
+    
+    <Grid HorizontalAlignment="Stretch"
+          VerticalAlignment="Stretch">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        <ListBox Grid.Row="1"
+                 Grid.ColumnSpan="3"
+                 ItemsSource="{Binding Movies}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding BoxArtSmallUrl}"
+                               Width="64"
+                               Height="64"
+                               Margin="5" />
+                        <StackPanel Margin="5" 
+                                    Orientation="Vertical">
+                            <TextBlock Text="{Binding Title}" 
+                                       FontSize="20" />
+                            <TextBlock Text="{Binding Url}" />
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <TextBox Margin="5"
+                 Grid.Row="0"
+                 Grid.Column="0"
+                 VerticalContentAlignment="Center"
+                 Text="{Binding Query, Mode=TwoWay}" />
+
+        <Button Content="Fetch"
+                Margin="5"
+                Grid.Row="0"
+                Grid.Column="1"
+                Command="{Binding Fetch}" />
+
+        <Button Content="Cancel"
+                Margin="5"
+                Grid.Row="0"
+                Grid.Column="2"
+                Command="{Binding Cancel}" />
+        
+        <ProgressBar Margin="5"
+                     Grid.Row="2"
+                     Grid.Column="2"
+                     IsIndeterminate="{Binding Progress, Mode=OneWay, Converter={StaticResource HasValueConverter}, ConverterParameter=False}"
+                     Value="{Binding Progress, Mode=OneWay, Converter={StaticResource CoalesceConverter}, ConverterParameter=0}" Maximum="1" />
+        
+        <TextBlock Margin="5"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="2"
+                   Text="{Binding ProgressText}"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Right" />
+    </Grid>
+</Window>

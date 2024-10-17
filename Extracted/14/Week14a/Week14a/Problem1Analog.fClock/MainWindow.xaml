@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem1Analog.fClock"
+        xmlns:AnalogClockUserControl="clr-namespace:AnalogClockUserControl;assembly=AnalogClockUserControl" x:Class="Problem1Analog.fClock.MainWindow"
+        mc:Ignorable="d"  Closing="Window_Closing"  
+        Title="Analog clock with thread" Height="360" Width="540">
+    <Window.Resources >
+        <Style TargetType="{x:Type Button}">
+            <Setter  Property="FontWeight" Value="Bold"/>
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Width" Value="100"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="* " />
+            <ColumnDefinition Width="* " />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="414*" />
+            <RowDefinition Height="47*" />
+        </Grid.RowDefinitions>
+        <Button x:Name="Start" Content="Start" Click="Start_Click" Grid.Row="1" Height="20" Width="100"/>
+        <Button x:Name="Stop" Content="Stop"   Click="Stop_Click" Grid.Row="1" Grid.Column="1" Height="20" Width="100"/>
+        <AnalogClockUserControl:UsrControlClock Name="Clock" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.ColumnSpan="2" Height="299" Margin="128,0,0,0" Width="301"  />
+    </Grid>
+</Window>

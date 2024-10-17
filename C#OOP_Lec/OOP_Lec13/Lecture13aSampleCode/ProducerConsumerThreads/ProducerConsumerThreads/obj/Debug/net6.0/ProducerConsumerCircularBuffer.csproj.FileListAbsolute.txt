@@ -1,0 +1,15 @@
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.csproj.AssemblyReference.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.AssemblyInfoInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.AssemblyInfo.cs
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.csproj.CoreCompileInputs.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0\ProducerConsumerCircularBuffer.exe
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0\ProducerConsumerCircularBuffer.deps.json
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0\ProducerConsumerCircularBuffer.runtimeconfig.json
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0\ProducerConsumerCircularBuffer.dll
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\bin\Debug\net6.0\ProducerConsumerCircularBuffer.pdb
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.dll
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\refint\ProducerConsumerCircularBuffer.dll
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.pdb
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ProducerConsumerCircularBuffer.genruntimeconfig.cache
+E:\VS2022projects\ProducerConsumerThreads\ProducerConsumerThreads\obj\Debug\net6.0\ref\ProducerConsumerCircularBuffer.dll
