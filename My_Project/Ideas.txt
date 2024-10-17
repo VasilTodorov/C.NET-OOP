@@ -1,0 +1,12 @@
+When I move the head with mouse cursor
+there should be a new position witch 
+should be a new point on polyline while 
+last pint should be removed.
+
+New points should only be added only when
+at liner proportion distance of head.At
+exact segment length.
+
+Make class for snake.With even eat point(time since apearing)
+
+клас Снаке ще вземе канвас  като единнствен параметър

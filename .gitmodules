@@ -1,0 +1,6 @@
+[submodule "My_Project/FeedTheSnakeFinal/FeedTheSnake_Progect"]
+	path = My_Project/FeedTheSnakeFinal/FeedTheSnake_Progect
+	url = https://github.com/VasilTodorov/FeedTheSnake_Progect
+[submodule "My_Project/TokenizationBankServer"]
+	path = My_Project/TokenizationBankServer
+	url = https://github.com/VasilTodorov/TokenizationBankServer
