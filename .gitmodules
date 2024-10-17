@@ -4,3 +4,6 @@
 [submodule "My_Project/TokenizationBankServer"]
 	path = My_Project/TokenizationBankServer
 	url = https://github.com/VasilTodorov/TokenizationBankServer
+[submodule "My_Project/Grafical_Models"]
+	path = My_Project/Grafical_Models
+	url = https://github.com/VasilTodorov/Grafical_Models
