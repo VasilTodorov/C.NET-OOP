@@ -7,3 +7,6 @@
 [submodule "My_Project/Grafical_Models"]
 	path = My_Project/Grafical_Models
 	url = https://github.com/VasilTodorov/Grafical_Models
+[submodule "HackerRank/DeterminingDNAHealth"]
+	path = HackerRank/DeterminingDNAHealth
+	url = https://github.com/VasilTodorov/DeterminingDNAHealth
